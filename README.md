@@ -8,7 +8,7 @@ But it was a though thing. I just have a budget of 20 dollaers. I have to switch
  else witch can compare skin prices on different trading APPs. So comes this website.
  
  ## Install
- It's just a WEBSITE! What U should do is click this **[link](https://csgo.laosepi.tk)**.
+ Install? It's just a WEBSITE! What U should do is click this **[link](https://csgo.laosepi.tk)**.
  
  ## Usage
 The guy was so lazy, he didn't write anything.
