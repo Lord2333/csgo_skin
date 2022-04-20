@@ -1,4 +1,6 @@
 # csgo_skin
+Chinese readme ==> [here](README_cn.md)
+
 A web site for CSGO players to find the CHEAPEST skin. Save as much as you can.
 
 ## Background
